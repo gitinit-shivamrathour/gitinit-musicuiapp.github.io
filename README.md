@@ -22,7 +22,7 @@ Music Player lets you manage all your music files quickly and easily .This audio
 Contributors names and contact info
 
 Mr. Shivam Singh Rajput  
-email: shivampublic744@gmail.com
+email: shivampublic2001@gmail.com
 
 ## License/Rights
 
